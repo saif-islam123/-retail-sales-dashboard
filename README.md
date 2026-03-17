@@ -38,7 +38,7 @@ It provides insights into sales performance, customer behavior, and product tren
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.png.png)
 
 ---
 
